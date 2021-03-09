@@ -1,0 +1,12 @@
+{
+  "name": "inidoc",
+  "displayName": "inidoc",
+  "expo": {
+    "name": "inidoc",
+    "slug": "inidoc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
